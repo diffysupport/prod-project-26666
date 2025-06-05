@@ -90,7 +90,7 @@ basic:
         compare_with_fresh: production
 advanced:
     mask: ''
-    remove: "#modal-agegate\n.modal-backdrop"
+    remove: "#modal-agegate\n.modal-backdrop\n.osano-cm-window\n.osano-cm-window__dialog"
     delay: 15
     scroll: true
     headers:
