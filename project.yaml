@@ -93,13 +93,11 @@ advanced:
     remove: "#modal-agegate\n.modal-backdrop\n.osano-cm-window\n.osano-cm-window__dialog\n#agegate\n"
     delay: 15
     scroll: true
-    headers:
-        - { header: '', value: '' }
+    headers: {  }
     cookies: ''
     custom_js: ''
     custom_css: ''
-    mock_content:
-        - { selector: '', type: title }
+    mock_content: {  }
     sensitivity: 5
     night_mode: false
     retina_images: false
